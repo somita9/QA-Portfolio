@@ -15,6 +15,7 @@
 - [`test-tasks/`](https://github.com/somita9/test-tasks) — выполненные тестовые задания  
 - [`api-testing/`](https://github.com/somita9/api-testing) — коллекция Postman на 14 запросов и 44 проверки, тест-кейсы к API и три найденных дефекта  
 - [`sql-queries/`](https://github.com/somita9/sql-queries) — учебная база баг-трекера и 12 запросов: от простой выборки до оконной функции  
+- [`akt-generator/`](https://github.com/somita9/akt-generator) — собственная программа на Python: PDF заказ-наряда → пакет документов в .docx, с чек-листом приёмки, тест-кейсами и четырьмя найденными дефектами  
 
 ---
 
